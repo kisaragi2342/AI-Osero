@@ -1,5 +1,8 @@
 # カスタムAI対戦オセロゲーム (Open Campus Edition)
 
+**ここから遊べます！↓**
+**https://kisaragi2342.com/ai-osero/**
+
 ## 概要
 
 このプロジェクトは、Webブラウザで手軽に遊べるAI対戦型のオセロゲームです。
